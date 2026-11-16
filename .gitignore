@@ -1,0 +1,12 @@
+# Dataset besar (CIC-IDS) - terlalu besar untuk GitHub (batas 100 MB per file)
+CIC-IDS-2017/
+CIC-IDS-2018/
+*.zip
+*.csv
+*.parquet
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
